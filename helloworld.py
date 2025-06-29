@@ -1,4 +1,4 @@
-print("Goodbye,World!!")
+print("hello_world")
 
 def median(input):
   middleIndex = len(input)//2
