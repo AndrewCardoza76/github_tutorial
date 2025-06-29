@@ -1,4 +1,4 @@
-print("Goodbye,World!!")
+print("hello_world")
 
 def mean(input):
   sum = 0
